@@ -1,0 +1,6 @@
+{
+  "name": "山西校园健康数问平台",
+  "description": "一个基于数据源的智能健康数据问答与管理系统",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
